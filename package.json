@@ -47,9 +47,11 @@
   },
   "devDependencies": {
     "@stdlib/array-complex64": "^0.3.2",
+    "@stdlib/assert-is-same-complex64array": "^0.2.3",
     "@stdlib/complex-float32-ctor": "^0.1.1",
     "@stdlib/math-base-special-pow": "^0.3.1",
     "@stdlib/ndarray-base-ctor": "^0.3.1",
+    "@stdlib/ndarray-data-buffer": "^0.2.3",
     "@stdlib/ndarray-from-scalar": "^0.3.1",
     "@stdlib/ndarray-ndarraylike2scalar": "github:stdlib-js/ndarray-ndarraylike2scalar#main",
     "@stdlib/ndarray-to-array": "^0.2.2",
